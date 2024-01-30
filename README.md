@@ -2,8 +2,8 @@
 
 - Sobre mí: 🎨 + 💻 + 🌼
 
-- 🌱 Aprendiendo: Javascript, PHP, Laravel 
-- 💪 Trabajando en mi TFC 
+- 🌱 Aprendiendo: React, UX/UI design
+- 💪 Trabajando en mi portfolio 
   
 
 ## Tecnologías:
